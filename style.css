@@ -144,6 +144,9 @@ img {
     .chats-area {
         padding-inline: 0px;
     }
+    .chats {
+        width: 70vh;
+    }
     input {
         margin-top: 4px;
     }
